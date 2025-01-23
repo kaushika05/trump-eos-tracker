@@ -11,7 +11,7 @@ export function ThemeToggle() {
       <Sun className="h-4 w-4" />
       <Switch
         id="theme-mode"
-        checked={theme === "dark"}
+        checked={theme === "light"}
         onCheckedChange={(checked) => setTheme(checked ? "dark" : "light")}
       />
       <Moon className="h-4 w-4" />
