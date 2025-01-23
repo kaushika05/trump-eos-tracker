@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "title": "Initial Rescissions Of Harmful Executive Orders And Actions",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
+    "tldr": "Rescinds 78 Biden Administration executive orders and memoranda (~1/2 of Biden's EOs). Obviously too many to summarize.",
+    "status": "Gives 1-2 months for departments to review and make sure that nothing here would cause the country to shut down or something.",
+    "forecast": "30%",
+    "impact": 5,
+    "categories": ["environment", "immigration"]
+  },
+  {
+    "id": 2,
+    "title": "Restoring Freedom Of Speech And Ending Federal Censorship",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/",
+    "tldr": "No federal employee should abridge free speech under the guise of combating misinformation. Also, make a report about whether it did that in the past.",
+    "status": "Theoretically immediate but it's kind of hard to interpret what it means for most federal employees.",
+    "forecast": "10%",
+    "impact": 2,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 3,
+    "title": "Ending The Weaponization Of The Federal Government",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/",
+    "tldr": "Reviews whether the previous administration weaponized the justice department and intelligence community against political opponents.",
+    "status": "Justice department will probably get started on this pretty soon.",
+    "forecast": "5%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 4,
+    "title": "Return to In-Person Work",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/return-to-in-person-work/",
+    "tldr": "Return to In-Person Work for federal employees.",
+    "status": "Might take a few months for departments to actually implement this. People have to be given time to relocate, etc.",
+    "forecast": "5%",
+    "impact": 2,
+    "categories": ["other"]
+  },
+  {
+    "id": 5,
+    "title": "Regulatory Freeze Pending Review",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/regulatory-freeze-pending-review/",
+    "tldr": "Freeze on any new rules from departments unless reviewed by new admin department heads.",
+    "status": "Immediate. Likely will get retracted within a couple months though. Like a hiring freeze but for actions.",
+    "forecast": "3%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 6,
+    "title": "Hiring Freeze",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/",
+    "tldr": "Basically every admin does a hiring freeze. This one also instructs the OMB to make a plan to reduce the size of the workforce through 'efficiency improvements and attrition.'",
+    "status": "Immediate. Will probably go on for several months.",
+    "forecast": "3%",
+    "impact": 2,
+    "categories": ["other"]
+  },
+  {
+    "id": 7,
+    "title": "Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis/",
+    "tldr": "Directs departments to make things cheaper for Americans.",
+    "status": "Unclear.",
+    "forecast": "10%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 8,
+    "title": "Putting America First In International Environmental Agreements",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/",
+    "tldr": "Withdraws the US from the Paris Agreement.",
+    "status": "Immediate",
+    "forecast": "5%",
+    "impact": 3,
+    "categories": ["environment"]
+  },
+  {
+    "id": 9,
+    "title": "Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6, 2021",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/",
+    "tldr": "Pardons a lot of ppl, including Jan 6th convictions.",
+    "status": "Immediate",
+    "forecast": "5%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 10,
+    "title": "Application Of Protecting Americans From Foreign Adversary Controlled Applications Act To TikTok",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/application-of-protecting-americans-from-foreign-adversary-controlled-applications-act-to-tiktok/",
+    "tldr": "75 day delay to TikTok ban.",
+    "status": "Immediate (punts the issue down the line for 75 days)",
+    "forecast": "30%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 11,
+    "title": "Withdrawing The United States From The World Health Organization",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/",
+    "tldr": "Withdraws the US from the WHO.",
+    "status": "Immediate, but disentangling from the WHO will take a bit of time.",
+    "forecast": "10%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 12,
+    "title": "Restoring Accountability To Policy-Influencing Positions Within the Federal Workforce",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/",
+    "tldr": "Makes it easier to fire federal employees in policy roles.",
+    "status": "Already sued over this by a federal union.",
+    "forecast": "40%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 13,
+    "title": "Holding Former Government Officials Accountable For Election Interference And Improper Disclosure Of Sensitive Governmental Information",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-government-officials-accountablefor-election-interference-and-improper-disclosure-of-sensitive-governmental-information/",
+    "tldr": "Revokes security clearance from a bunch of people.",
+    "status": "Probably immediate. Some individuals might sue?",
+    "forecast": "15%",
+    "impact": 2,
+    "categories": ["other"]
+  },
+  {
+    "id": 14,
+    "title": "Declaring A National Emergency At The Southern Border Of The United States",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/",
+    "tldr": "Directs the military to prepare to assist at the southern border.",
+    "status": "Secretary of Defense will get on this.",
+    "forecast": "10%",
+    "impact": 2,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 15,
+    "title": "Memorandum to Resolve the Backlog of Security Clearances for Executive Office of the President Personnel",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-to-resolve-the-backlog-of-security-clearances-for-executive-office-of-the-president-personnel/",
+    "tldr": "Expedites clearances for new appointees.",
+    "status": "Immediate",
+    "forecast": "3%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 16,
+    "title": "America First Trade Policy",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/",
+    "tldr": "Lots and lots of trade directives: mostly investigating feasibility of various things like tariffs, resolving unfair trade practices by other countries, etc.",
+    "status": "Will take some time for departments to do this. Some of these seem like they might face logistical challenges.",
+    "forecast": "25%",
+    "impact": 2,
+    "categories": ["other"]
+  },
+  {
+    "id": 17,
+    "title": "Clarifying The Military’s Role In Protecting The Territorial Integrity Of The United States",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/clarifying-the-militarys-role-in-protecting-the-territorial-integrity-of-the-united-states/",
+    "tldr": "Develop a plan to seal the borders.",
+    "status": "Plan due within a month.",
+    "forecast": "10%",
+    "impact": 2,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 18,
+    "title": "Unleashing American Energy",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tldr": "Removes regulatory barriers for energy production, mining, home appliances, and gas-powered vehicles. Restores LNG exports. Ends the Climate Corps, pauses IRA and Infrastructure Investment funds to green initiatives.",
+    "status": "Much of this will likely take about a year to roll out, there's a lot of stuff in this EO that will take time.",
+    "forecast": "25%",
+    "impact": 5,
+    "categories": ["energy", "environment"]
+  },
+  {
+    "id": 19,
+    "title": "Realigning the United States Refugee Admissions Program",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/",
+    "tldr": "Pauses all refugee admissions.",
+    "status": "Immediate.",
+    "forecast": "35%",
+    "impact": 4,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 20,
+    "title": "Protecting The Meaning And Value Of American Citizenship",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/",
+    "tldr": "Ends birthright citizenship.",
+    "status": "Will be blocked this month (>90% on prediction markets). And odds are low that it will not be declared unconstitutional by the supreme court.",
+    "forecast": "85%",
+    "impact": 5,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 21,
+    "title": "Securing Our Borders",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/",
+    "tldr": "Builds the wall, perhaps, ends CBP One, and adopts other policies aiming to secure the border.",
+    "status": "Will take some time to roll out these changes.",
+    "forecast": "30%",
+    "impact": 3,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 22,
+    "title": "Putting People Over Fish: Stopping Radical Environmentalism to Provide Water to Southern California",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california/",
+    "tldr": "Memorandum about working to re-route water in Southern California.",
+    "status": "Likely still subject to the previous lawsuit from the last administration.",
+    "forecast": "50%",
+    "impact": 1,
+    "categories": ["environment"]
+  },
+  {
+    "id": 23,
+    "title": "Restoring The Death Penalty And Protecting Public Safety",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/",
+    "tldr": "Restores federal capital punishment.",
+    "status": "Fairly immediate.",
+    "forecast": "10%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 24,
+    "title": "Promoting Beautiful Federal Civic Architecture",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/promoting-beautiful-federal-civic-architecture/",
+    "tldr": "Retvrn to classical architecture.",
+    "status": "Likely will run into logistical challenges given that construction is a long process and most buildings are planned a while in advance.",
+    "forecast": "25%",
+    "impact": 2,
+    "categories": ["other"]
+  },
+  {
+    "id": 25,
+    "title": "Restoring Accountability for Career Senior Executives",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-for-career-senior-executives/",
+    "tldr": "Gives greater executive control over career senior executive service workforce.",
+    "status": "Fairly immediate.",
+    "forecast": "10%",
+    "impact": 2,
+    "categories": ["other"]
+  },
+  {
+    "id": 26,
+    "title": "Declaring a National Energy Emergency",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/",
+    "tldr": "Directs departments to urgently facilitate energy and natural resource project.",
+    "status": "Will take a couple months for this to roll out. Likely will face lawsuits on many energy projects and resource extraction.",
+    "forecast": "30%",
+    "impact": 2,
+    "categories": ["energy"]
+  },
+  {
+    "id": 27,
+    "title": "Reevaluating And Realigning United States Foreign Aid",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/",
+    "tldr": "Pause on disbursement of foreign aid, orders a review of foreign assistance programs to make them consistent with current US foreign policy.",
+    "status": "Immediate pause, larger changes will roll out in coming months.",
+    "forecast": "20%",
+    "impact": 4,
+    "categories": ["other"]
+  },
+  {
+    "id": 28,
+    "title": "Organization of the National Security Council and Subcommittees",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/organization-of-the-national-security-council-and-subcommittees/",
+    "tldr": "Reorg of the national security council.",
+    "status": "Fairly immediate.",
+    "forecast": "3%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 29,
+    "title": "The Organization for Economic Co-operation and Development (OECD) Global Tax Deal (Global Tax Deal)",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/organization-of-the-national-security-council-and-subcommittees/",
+    "tldr": "Withdraws US from the OECD Global Tax Deal.",
+    "status": "Fairly immediate.",
+    "forecast": "15%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 30,
+    "title": "Protecting The American People Against Invasion",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/",
+    "tldr": "Establishes nationwide task forces to target cartels and human trafficking networks. Mandates increased detentions and removals of aliens. Denies public benefits to illegal aliens.",
+    "status": "Will likely take several months to implement.",
+    "forecast": "50%",
+    "impact": 5,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 31,
+    "title": "Unleashing Alaska’s Extraordinary Resource Potential",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
+    "tldr": "Expands permitting for energy and development projects in Alaska.",
+    "status": "Fairly rapid, but will likely experience litigation.",
+    "forecast": "35%",
+    "impact": 3,
+    "categories": ["energy"]
+  },
+  {
+    "id": 32,
+    "title": "Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats/",
+    "tldr": "Enhanced vetting and screening of foreign nationals, potentially leading to a partial ban on entry from certain nations.",
+    "status": "Will take a couple months to roll out.",
+    "forecast": "30%",
+    "impact": 3,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 33,
+    "title": "America First Policy Directive To The Secretary Of State",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/america-first-policy-directive-to-the-secretary-of-state/",
+    "tldr": "Align foreign policy with 'America First'.",
+    "status": "Immediate.",
+    "forecast": "3%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 34,
+    "title": "Establishing And Implementing The President’s “Department Of Government Efficiency”",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/",
+    "tldr": "Creates DOGE (except it's created from the US Digital Service and is making software more efficient for now). Also every agency has to establish a small DOGE team.",
+    "status": "Will probably take a couple months to build this out but probably already on the ground running.",
+    "forecast": "5%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 35,
+    "title": "Defending Women From Gender Ideology Extremism And Restoring Biological Truth To The Federal Government",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
+    "tldr": "Defines sex as biological sex and eliminates the concept of gender identity.",
+    "status": "Unclear.",
+    "forecast": "40%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 36,
+    "title": "Ending Radical And Wasteful Government DEI Programs And Preferencing",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
+    "tldr": "Eliminates federal DEI programs, terminates any employees and programs thereof.",
+    "status": "Probably will take a couple weeks but reports are that this has already begun to roll out.",
+    "forecast": "25%",
+    "impact": 4,
+    "categories": ["other"]
+  },
+  {
+    "id": 37,
+    "title": "Reforming The Federal Hiring Process And Restoring Merit To Government Service",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/",
+    "tldr": "Directs the creation of a federal hiring plan to prioritize recruitment based on merit and commitment to American ideals, decrease time-to-hire, and use modern technology to support the hiring process.",
+    "status": "Will take up to 6 months to create the hiring plan (probably the length of the hiring freeze).",
+    "forecast": "20%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 38,
+    "title": "Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorists",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/",
+    "tldr": "Designates drug cartels as terrorist organizations.",
+    "status": "Creates a process. Will likely take a few months to implement.",
+    "forecast": "5%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 39,
+    "title": "Restoring Names That Honor American Greatness",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/",
+    "tldr": "Mt. Denali is now Mt. McKinley. The Gulf of Mexico is now the Gulf of America. Other names may change.",
+    "status": "Immediate, with more to come.",
+    "forecast": "15%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 40,
+    "title": "Guaranteeing The States Protection Against Invasion",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/",
+    "tldr": "Seals the southern border from illegal crossing.",
+    "status": "Fairly immediate, I gather.",
+    "forecast": "15%",
+    "impact": 2,
+    "categories": ["immigration"]
+  },
+  {
+    "id": 41,
+    "title": "Keeping Americans Safe in Aviation",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/keeping-americans-safe-in-aviation/",
+    "tldr": "Mandates the FAA to conduct a review to eliminate DEI initiatives and hiring.",
+    "status": "Will take a few months to implement.",
+    "forecast": "10%",
+    "impact": 1,
+    "categories": ["other"]
+  },
+  {
+    "id": 42,
+    "title": "Ending Illegal Discrimination And Restoring Merit-Based Opportunity",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/",
+    "tldr": "Revokes executive orders promoting DEI, directs contractors to cease DEI, and again directs agencies to cease DEI. Advises DoEd to issue guidance to colleges on complying with Students vs Harvard.",
+    "status": "Will roll out over the next couple months.",
+    "forecast": "35%",
+    "impact": 3,
+    "categories": ["other"]
+  },
+  {
+    "id": 43,
+    "title": "Designation Of Ansar Allah as a Foreign Terrorist Organization",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-ansar-allah-as-a-foreign-terrorist-organization/",
+    "tldr": "The Houthis have been re-designated a terrorist organization.",
+    "status": "Will be implemented within the next month.",
+    "forecast": "3%",
+    "impact": 1,
+    "categories": ["other"]
+  }
+]

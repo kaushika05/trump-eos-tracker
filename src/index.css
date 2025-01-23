@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 215 25% 27%;
+    --primary: 217 71% 20%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 217 71% 20%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215 25% 27%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 217 71% 20%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 217 71% 20%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.disclaimer {
+  @apply bg-primary/10 text-primary text-sm py-2 px-4 text-center;
+}
+
+.table-container {
+  @apply w-full overflow-x-auto rounded-lg border;
+}
+
+.data-table {
+  @apply w-full border-collapse;
+}
+
+.data-table th {
+  @apply bg-secondary px-4 py-3 text-left text-sm font-semibold text-primary;
+}
+
+.data-table td {
+  @apply px-4 py-3 text-sm border-t;
+}
+
+.data-table tr:hover {
+  @apply bg-accent/50;
+}
