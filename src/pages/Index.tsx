@@ -1,7 +1,7 @@
 import React from 'react';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
-import { ExecutiveOrdersTable } from '@/components/ExecutiveOrdersTable';
+import ExecutiveOrdersTable from '@/components/ExecutiveOrdersTable';
 
 const Index = () => {
   return (

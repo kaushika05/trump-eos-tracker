@@ -7,7 +7,7 @@
     "status": "Gives 1-2 months for departments to review and make sure that nothing here would cause the country to shut down or something.",
     "forecast": "30%",
     "impact": 5,
-    "categories": ["environment", "immigration"]
+    "categories": ["environment", "immigration", "economy", "foreign policy"]
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "status": "Theoretically immediate but it's kind of hard to interpret what it means for most federal employees.",
     "forecast": "10%",
     "impact": 2,
-    "categories": ["immigration"]
+    "categories": ["immigration", "technology"]
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "status": "Justice department will probably get started on this pretty soon.",
     "forecast": "5%",
     "impact": 1,
-    "categories": ["other"]
+    "categories": ["other", "foreign policy"]
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "status": "Might take a few months for departments to actually implement this. People have to be given time to relocate, etc.",
     "forecast": "5%",
     "impact": 2,
-    "categories": ["other"]
+    "categories": ["other", "infrastructure"]
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "status": "Immediate. Likely will get retracted within a couple months though. Like a hiring freeze but for actions.",
     "forecast": "3%",
     "impact": 1,
-    "categories": ["other"]
+    "categories": ["other", "economy"]
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "status": "Immediate. Will probably go on for several months.",
     "forecast": "3%",
     "impact": 2,
-    "categories": ["other"]
+    "categories": ["other", "economy"]
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "status": "Unclear.",
     "forecast": "10%",
     "impact": 1,
-    "categories": ["other"]
+    "categories": ["other", "economy"]
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "status": "Immediate",
     "forecast": "5%",
     "impact": 3,
-    "categories": ["environment"]
+    "categories": ["environment", "foreign policy"]
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "status": "Immediate (punts the issue down the line for 75 days)",
     "forecast": "30%",
     "impact": 1,
-    "categories": ["other"]
+    "categories": ["other", "technology"]
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "status": "Immediate, but disentangling from the WHO will take a bit of time.",
     "forecast": "10%",
     "impact": 3,
-    "categories": ["other"]
+    "categories": ["other", "foreign policy"]
   },
   {
     "id": 12,
@@ -157,7 +157,7 @@
     "status": "Will take some time for departments to do this. Some of these seem like they might face logistical challenges.",
     "forecast": "25%",
     "impact": 2,
-    "categories": ["other"]
+    "categories": ["other", "economy", "foreign policy"]
   },
   {
     "id": 17,
@@ -177,7 +177,7 @@
     "status": "Much of this will likely take about a year to roll out, there's a lot of stuff in this EO that will take time.",
     "forecast": "25%",
     "impact": 5,
-    "categories": ["energy", "environment"]
+    "categories": ["energy", "environment", "economy"]
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "status": "Immediate.",
     "forecast": "35%",
     "impact": 4,
-    "categories": ["immigration"]
+    "categories": ["immigration", "foreign policy"]
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
     "status": "Likely will run into logistical challenges given that construction is a long process and most buildings are planned a while in advance.",
     "forecast": "25%",
     "impact": 2,
-    "categories": ["other"]
+    "categories": ["infrastructure"]
   },
   {
     "id": 25,
@@ -267,7 +267,7 @@
     "status": "Immediate pause, larger changes will roll out in coming months.",
     "forecast": "20%",
     "impact": 4,
-    "categories": ["other"]
+    "categories": ["foreign policy"]
   },
   {
     "id": 28,
@@ -287,146 +287,6 @@
     "status": "Fairly immediate.",
     "forecast": "15%",
     "impact": 3,
-    "categories": ["other"]
-  },
-  {
-    "id": 30,
-    "title": "Protecting The American People Against Invasion",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/",
-    "tldr": "Establishes nationwide task forces to target cartels and human trafficking networks. Mandates increased detentions and removals of aliens. Denies public benefits to illegal aliens.",
-    "status": "Will likely take several months to implement.",
-    "forecast": "50%",
-    "impact": 5,
-    "categories": ["immigration"]
-  },
-  {
-    "id": 31,
-    "title": "Unleashing Alaska’s Extraordinary Resource Potential",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
-    "tldr": "Expands permitting for energy and development projects in Alaska.",
-    "status": "Fairly rapid, but will likely experience litigation.",
-    "forecast": "35%",
-    "impact": 3,
-    "categories": ["energy"]
-  },
-  {
-    "id": 32,
-    "title": "Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats/",
-    "tldr": "Enhanced vetting and screening of foreign nationals, potentially leading to a partial ban on entry from certain nations.",
-    "status": "Will take a couple months to roll out.",
-    "forecast": "30%",
-    "impact": 3,
-    "categories": ["immigration"]
-  },
-  {
-    "id": 33,
-    "title": "America First Policy Directive To The Secretary Of State",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/america-first-policy-directive-to-the-secretary-of-state/",
-    "tldr": "Align foreign policy with 'America First'.",
-    "status": "Immediate.",
-    "forecast": "3%",
-    "impact": 1,
-    "categories": ["other"]
-  },
-  {
-    "id": 34,
-    "title": "Establishing And Implementing The President’s “Department Of Government Efficiency”",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/",
-    "tldr": "Creates DOGE (except it's created from the US Digital Service and is making software more efficient for now). Also every agency has to establish a small DOGE team.",
-    "status": "Will probably take a couple months to build this out but probably already on the ground running.",
-    "forecast": "5%",
-    "impact": 3,
-    "categories": ["other"]
-  },
-  {
-    "id": 35,
-    "title": "Defending Women From Gender Ideology Extremism And Restoring Biological Truth To The Federal Government",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
-    "tldr": "Defines sex as biological sex and eliminates the concept of gender identity.",
-    "status": "Unclear.",
-    "forecast": "40%",
-    "impact": 3,
-    "categories": ["other"]
-  },
-  {
-    "id": 36,
-    "title": "Ending Radical And Wasteful Government DEI Programs And Preferencing",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
-    "tldr": "Eliminates federal DEI programs, terminates any employees and programs thereof.",
-    "status": "Probably will take a couple weeks but reports are that this has already begun to roll out.",
-    "forecast": "25%",
-    "impact": 4,
-    "categories": ["other"]
-  },
-  {
-    "id": 37,
-    "title": "Reforming The Federal Hiring Process And Restoring Merit To Government Service",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/",
-    "tldr": "Directs the creation of a federal hiring plan to prioritize recruitment based on merit and commitment to American ideals, decrease time-to-hire, and use modern technology to support the hiring process.",
-    "status": "Will take up to 6 months to create the hiring plan (probably the length of the hiring freeze).",
-    "forecast": "20%",
-    "impact": 3,
-    "categories": ["other"]
-  },
-  {
-    "id": 38,
-    "title": "Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorists",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/",
-    "tldr": "Designates drug cartels as terrorist organizations.",
-    "status": "Creates a process. Will likely take a few months to implement.",
-    "forecast": "5%",
-    "impact": 1,
-    "categories": ["other"]
-  },
-  {
-    "id": 39,
-    "title": "Restoring Names That Honor American Greatness",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/",
-    "tldr": "Mt. Denali is now Mt. McKinley. The Gulf of Mexico is now the Gulf of America. Other names may change.",
-    "status": "Immediate, with more to come.",
-    "forecast": "15%",
-    "impact": 1,
-    "categories": ["other"]
-  },
-  {
-    "id": 40,
-    "title": "Guaranteeing The States Protection Against Invasion",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/",
-    "tldr": "Seals the southern border from illegal crossing.",
-    "status": "Fairly immediate, I gather.",
-    "forecast": "15%",
-    "impact": 2,
-    "categories": ["immigration"]
-  },
-  {
-    "id": 41,
-    "title": "Keeping Americans Safe in Aviation",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/keeping-americans-safe-in-aviation/",
-    "tldr": "Mandates the FAA to conduct a review to eliminate DEI initiatives and hiring.",
-    "status": "Will take a few months to implement.",
-    "forecast": "10%",
-    "impact": 1,
-    "categories": ["other"]
-  },
-  {
-    "id": 42,
-    "title": "Ending Illegal Discrimination And Restoring Merit-Based Opportunity",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/",
-    "tldr": "Revokes executive orders promoting DEI, directs contractors to cease DEI, and again directs agencies to cease DEI. Advises DoEd to issue guidance to colleges on complying with Students vs Harvard.",
-    "status": "Will roll out over the next couple months.",
-    "forecast": "35%",
-    "impact": 3,
-    "categories": ["other"]
-  },
-  {
-    "id": 43,
-    "title": "Designation Of Ansar Allah as a Foreign Terrorist Organization",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-ansar-allah-as-a-foreign-terrorist-organization/",
-    "tldr": "The Houthis have been re-designated a terrorist organization.",
-    "status": "Will be implemented within the next month.",
-    "forecast": "3%",
-    "impact": 1,
-    "categories": ["other"]
+    "categories": ["economy", "foreign policy"]
   }
 ]

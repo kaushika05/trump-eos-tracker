@@ -2,18 +2,17 @@ import React from 'react';
 
 export const Footer = () => {
   return (
-    <footer className="mt-12 py-6 border-t">
-      <p className="text-center text-sm text-muted-foreground">
-        Not affiliated with the US government.{" "}
+    <footer className="mt-8 py-4 border-t">
+      <div className="text-center text-sm text-muted-foreground">
         <a 
-          href="https://github.com/kaushika05/trump-eos-tracker"
+          href="https://github.com/yourusername/trump-executive-orders"
           target="_blank"
           rel="noopener noreferrer"
           className="underline hover:text-primary"
         >
-          View full code here
+          GitHub Repo
         </a>
-      </p>
+      </div>
     </footer>
   );
 };
