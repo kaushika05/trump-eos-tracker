@@ -305,6 +305,6 @@
     "status": "in progress",
     "forecast": "20%",
     "impact": 3,
-    "categories": ["economy", "infrastructure", "education", "other"]
+    "categories": ["technology", "economy", "infrastructure", "education", "other"]
   }
 ]
