@@ -1,7 +1,7 @@
 # Executive Orders Tracker
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue)  
-**Disclaimer**: This project is not affiliated in any way, shape or form with the U.S. government. It is maintained by Kaushika Wijerathne and Benjamin Shindel.
+**Disclaimer**: This project is not affiliated in any way, shape or form with the U.S. government. It is maintained by Kaushika Wijerathne and data is sourced from a public spreadsheet made by Twitter user @benshindel.
 
 ---
 
